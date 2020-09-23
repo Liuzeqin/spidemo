@@ -1,0 +1,2 @@
+demo=com.lzq.dubbospidemo.service.impl.DemoLoadbalance
+test=com.lzq.dubbospidemo.service.impl.TestLoadBalance
