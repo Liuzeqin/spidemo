@@ -1,0 +1,4 @@
+wapper1=com.lzq.dubboaopdemo.aopservice.Impl.AopServiceWapper1
+wapper2=com.lzq.dubboaopdemo.aopservice.Impl.AopServiceWapper2
+java=com.lzq.dubboaopdemo.aopservice.Impl.JavaAopService
+cpp=com.lzq.dubboaopdemo.aopservice.Impl.JavaAopService

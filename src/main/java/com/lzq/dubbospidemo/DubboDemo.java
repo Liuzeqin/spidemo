@@ -11,5 +11,9 @@ public class DubboDemo {
         demoBalance.Hello();
         LoadBalance testBalance = extensionLoader.getExtension("test");
         testBalance.Hello();
+        LoadBalance balance = extensionLoader.getDefaultExtension();
+        balance.Hello();
+        LoadBalance trueBalance = extensionLoader.getExtension("true");
+        trueBalance.Hello();
     }
 }
